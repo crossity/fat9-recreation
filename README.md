@@ -6,9 +6,11 @@ commands:
 command to read root:
   
   .mem -r
+  
 command to read boot:
 
   .mem -b
+  
 command to read fat : 
   
   .mem -f
